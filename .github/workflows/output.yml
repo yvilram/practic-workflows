@@ -1,9 +1,0 @@
-name: Output Exercice 1
-on: push
-jobs:
-  info:
-    runs-on: ubuntu-latest
-    steps:
-      - name: 
-        run:
-      
